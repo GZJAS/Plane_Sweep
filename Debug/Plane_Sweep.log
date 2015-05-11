@@ -1,0 +1,109 @@
+﻿生成启动时间为 2015/5/3 22:30:21。
+     1>项目“G:\360data\重要数据\我的文档\Visual Studio 2010\Projects\Local_PS\Plane_Sweep.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\Plane_Sweep.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt myData.cpp
+         myData.cpp
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(87): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(225): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(226): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(228): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(229): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(239): warning C4018: “>=”: 有符号/无符号不匹配
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(243): warning C4018: “>=”: 有符号/无符号不匹配
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(317): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(317): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(318): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(318): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(319): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(319): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(323): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(323): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(324): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(324): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(325): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(325): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(329): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(329): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(330): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(330): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(331): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(331): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(335): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(335): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(336): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(336): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(337): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(337): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(341): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(341): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(342): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(342): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(343): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(343): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(347): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(347): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(348): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(348): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(349): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(349): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(353): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(353): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(354): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(354): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(355): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(355): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(359): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(359): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(360): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(360): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(361): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(361): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(365): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(365): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(366): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(366): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(367): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(367): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(371): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(371): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(372): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(372): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(373): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(373): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(414): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(415): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(416): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(480): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(482): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(509): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(511): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(540): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(594): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(596): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(628): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(629): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(655): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(656): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(872): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(874): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(455): warning C4700: 使用了未初始化的局部变量“color_num”
+     1>g:\360data\重要数据\我的文档\visual studio 2010\projects\local_ps\mydata.cpp(468): warning C4700: 使用了未初始化的局部变量“score”
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\360data\重要数据\我的文档\Visual Studio 2010\Projects\Local_PS\Debug\Plane_Sweep.exe" /NOLOGO opencv_calib3d2410d.lib opencv_contrib2410d.lib opencv_core2410d.lib opencv_features2d2410d.lib opencv_flann2410d.lib opencv_gpu2410d.lib opencv_highgui2410d.lib opencv_imgproc2410d.lib opencv_legacy2410d.lib opencv_ml2410d.lib opencv_nonfree2410d.lib opencv_objdetect2410d.lib opencv_photo2410d.lib opencv_stitching2410d.lib opencv_ts2410d.lib opencv_video2410d.lib opencv_videostab2410d.lib opencv_calib3d2410.lib opencv_contrib2410.lib opencv_core2410.lib opencv_features2d2410.lib opencv_flann2410.lib opencv_gpu2410.lib opencv_highgui2410.lib opencv_imgproc2410.lib opencv_legacy2410.lib opencv_ml2410.lib opencv_nonfree2410.lib opencv_objdetect2410.lib opencv_photo2410.lib opencv_stitching2410.lib opencv_ts2410.lib opencv_video2410.lib opencv_videostab2410.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Plane_Sweep.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"G:\360data\重要数据\我的文档\Visual Studio 2010\Projects\Local_PS\Debug\Plane_Sweep.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\360data\重要数据\我的文档\Visual Studio 2010\Projects\Local_PS\Debug\Plane_Sweep.lib" /MACHINE:X86 Debug\Computing.obj
+         Debug\CoordinateChange.obj
+         Debug\main.obj
+         Debug\myData.obj
+         LINK : 没有找到 G:\360data\重要数据\我的文档\Visual Studio 2010\Projects\Local_PS\Debug\Plane_Sweep.exe 或上一个增量链接没有生成它；正在执行完全链接
+         Plane_Sweep.vcxproj -> G:\360data\重要数据\我的文档\Visual Studio 2010\Projects\Local_PS\Debug\Plane_Sweep.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"G:\360data\重要数据\我的文档\Visual Studio 2010\Projects\Local_PS\Debug\Plane_Sweep.exe;#1" /manifest Debug\Plane_Sweep.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Debug\Plane_Sweep.unsuccessfulbuild”。
+         正在对“Debug\Plane_Sweep.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“G:\360data\重要数据\我的文档\Visual Studio 2010\Projects\Local_PS\Plane_Sweep.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.44
